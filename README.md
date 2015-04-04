@@ -1,6 +1,6 @@
 # django-project-template
 
-Template to use when starting new Django 1.8 with PostgreSQL projects.
+Template to use when starting new Django 1.8 projects with PostgreSQL.
 
 ## Usage
 
