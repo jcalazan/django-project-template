@@ -70,9 +70,6 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
-
-                # Local context processors.
-                'youtubeadl.apps.core.context_processors.third_party_tracking_ids',
             ],
             'loaders': [
                 'django.template.loaders.filesystem.Loader',
