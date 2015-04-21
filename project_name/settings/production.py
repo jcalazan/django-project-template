@@ -1,4 +1,4 @@
-from base import *
+from {{ project_name }}.settings.base import *
 
 
 DEBUG = False
