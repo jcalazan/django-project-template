@@ -1,0 +1,1 @@
+This is just a filler so the `static` directory will get committed to git. Feel free to delete this anytime.
